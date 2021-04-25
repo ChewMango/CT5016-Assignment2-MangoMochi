@@ -1,0 +1,1224 @@
+﻿Log file open, 04/22/21 04:37:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MMAssignment2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.284517
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: AMD Radeon (TM) R9 380 Series
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.22-03.37.06:168][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.22-03.37.06:168][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.22-03.37.06:169][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Engine.ini]
+[2021.04.22-03.37.06:169][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.22-03.37.06:169][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Engine.ini]
+[2021.04.22-03.37.06:169][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Engine.ini]
+[2021.04.22-03.37.06:169][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.22-03.37.06:169][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.22-03.37.06:169][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Engine.ini]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.22-03.37.06:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Engine.ini]
+[2021.04.22-03.37.06:170][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Engine.ini]
+[2021.04.22-03.37.06:185][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.22-03.37.06:185][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.22-03.37.06:186][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.22-03.37.06:188][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.22-03.37.06:189][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.22-03.37.06:196][  0]LogHAL: Display: Platform has ~ 8 GB [8551444480 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.22-03.37.06:196][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.22-03.37.06:197][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.22-03.37.06:197][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.22-03.37.06:198][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.22-03.37.06:199][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Scalability.ini]
+[2021.04.22-03.37.06:199][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.22-03.37.06:199][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.22-03.37.06:199][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.22-03.37.06:199][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.22-03.37.06:200][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.22-03.37.06:200][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.22-03.37.06:200][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Config/Windows/Engine.ini]
+[2021.04.22-03.37.06:202][  0]LogInit: Computer: DESKTOP-EIDGBJM
+[2021.04.22-03.37.06:202][  0]LogInit: User: cythr
+[2021.04.22-03.37.06:202][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.04.22-03.37.06:202][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.22-03.37.06:203][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2021.04.22-03.37.06:203][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.22-03.37.06:203][  0]LogMemory: Process Physical Memory: 105.80 MB used, 105.80 MB peak
+[2021.04.22-03.37.06:203][  0]LogMemory: Process Virtual Memory: 100.39 MB used, 100.39 MB peak
+[2021.04.22-03.37.06:203][  0]LogMemory: Physical Memory: 6124.02 MB used,  2031.27 MB free, 8155.29 MB total
+[2021.04.22-03.37.06:203][  0]LogMemory: Virtual Memory: 5139.38 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2021.04.22-03.37.06:207][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.22-03.37.06:402][  0]LogInit: Using OS detected language (en-GB).
+[2021.04.22-03.37.06:402][  0]LogInit: Using OS detected locale (en-GB).
+[2021.04.22-03.37.06:405][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.04.22-03.37.06:719][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.22-03.37.06:811][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.22-03.37.06:811][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.22-03.37.07:280][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.22-03.37.07:280][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.22-03.37.07:280][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.22-03.37.07:280][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.22-03.37.07:373][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 380 Series' (Feature Level 11_0)
+[2021.04.22-03.37.07:373][  0]LogD3D11RHI:       4071/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2021.04.22-03.37.07:380][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.22-03.37.07:380][  0]LogD3D11RHI:       0/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.22-03.37.07:380][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.22-03.37.07:393][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.22-03.37.07:393][  0]LogD3D11RHI:     GPU DeviceId: 0x6938 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.22-03.37.07:393][  0]LogWindows: EnumDisplayDevices:
+[2021.04.22-03.37.07:393][  0]LogWindows:    0. 'AMD Radeon (TM) R9 380 Series' (P:1 D:1)
+[2021.04.22-03.37.07:394][  0]LogWindows:    1. 'AMD Radeon (TM) R9 380 Series' (P:0 D:1)
+[2021.04.22-03.37.07:394][  0]LogWindows:    2. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2021.04.22-03.37.07:394][  0]LogWindows:    3. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2021.04.22-03.37.07:395][  0]LogWindows:    4. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2021.04.22-03.37.07:395][  0]LogWindows:    5. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2021.04.22-03.37.07:396][  0]LogWindows:    6. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2021.04.22-03.37.07:396][  0]LogWindows:    7. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2021.04.22-03.37.07:397][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.04.22-03.37.07:397][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 380 Series
+[2021.04.22-03.37.07:397][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 21.3.1 (internal:27.20.15003.1004, unified:27.20.15003.1004)
+[2021.04.22-03.37.07:397][  0]LogD3D11RHI:      Driver Date: 3-10-2021
+[2021.04.22-03.37.07:397][  0]LogRHI: Texture pool is 2849 MB (70% of 4071 MB)
+[2021.04.22-03.37.07:583][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.04.22-03.37.07:584][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.22-03.37.07:639][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2021.04.22-03.37.08:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.22-03.37.08:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.22-03.37.08:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.22-03.37.08:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.22-03.37.08:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.22-03.37.08:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.22-03.37.08:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.22-03.37.08:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.22-03.37.08:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.22-03.37.08:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.22-03.37.08:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.22-03.37.08:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.22-03.37.08:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.22-03.37.08:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.22-03.37.08:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.22-03.37.08:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.22-03.37.08:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.22-03.37.08:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.22-03.37.08:993][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.22-03.37.09:005][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.22-03.37.09:130][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Intermediate/Shaders/WorkingDirectory/4916/).
+[2021.04.22-03.37.09:130][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cythr/AppData/Local/Temp/UnrealShaderWorkingDir/8E538558400F9CDE94F37C9FBEB5D06F/'.
+[2021.04.22-03.37.09:133][  0]LogXGEController: Cleaning working directory: C:/Users/cythr/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.04.22-03.37.09:134][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.22-03.37.09:134][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.22-03.37.09:134][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.22-03.37.10:287][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.22-03.37.10:716][  0]LogDerivedDataCache: Loaded boot cache 0.43s 82MB C:/Users/cythr/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.04.22-03.37.10:716][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cythr/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.04.22-03.37.10:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.22-03.37.10:717][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.22-03.37.10:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.22-03.37.10:717][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.22-03.37.10:736][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.22-03.37.10:736][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.22-03.37.10:736][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.22-03.37.10:738][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cythr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.22-03.37.10:738][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.22-03.37.10:738][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.22-03.37.10:780][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.04.22-03.37.10:797][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.22-03.37.10:804][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.22-03.37.10:985][  0]LogAssetRegistry: FAssetRegistry took 0.0078 seconds to start up
+[2021.04.22-03.37.11:878][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.22-03.37.12:304][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.22-03.37.12:304][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.22-03.37.12:304][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.22-03.37.12:304][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.22-03.37.12:304][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.22-03.37.12:389][  0]LogNetVersion: MMAssignment2 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2035951892)
+[2021.04.22-03.37.15:170][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.047738 seconds
+[2021.04.22-03.37.15:183][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2021.04.22-03.37.15:184][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2021.04.22-03.37.15:184][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.22-03.37.16:398][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.22-03.37.16:411][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.22-03.37.16:573][  0]SourceControl: Source control is disabled
+[2021.04.22-03.37.16:577][  0]SourceControl: Source control is disabled
+[2021.04.22-03.37.16:594][  0]SourceControl: Source control is disabled
+[2021.04.22-03.37.16:601][  0]SourceControl: Source control is disabled
+[2021.04.22-03.37.16:608][  0]SourceControl: Source control is disabled
+[2021.04.22-03.37.16:624][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.22-03.37.16:625][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.22-03.37.16:971][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.22-03.37.17:000][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.22-03.37.17:000][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.22-03.37.17:184][  0]LogOcInput: OculusInput pre-init called
+[2021.04.22-03.37.17:204][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.22-03.37.17:204][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.22-03.37.17:473][  0]LogEngine: Initializing Engine...
+[2021.04.22-03.37.17:480][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.22-03.37.17:501][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.017 s
+[2021.04.22-03.37.18:038][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.22-03.37.18:133][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.22-03.37.18:172][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.22-03.37.18:172][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.22-03.37.18:172][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.22-03.37.18:172][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.22-03.37.18:172][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.22-03.37.18:172][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.22-03.37.18:172][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.22-03.37.18:172][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.22-03.37.18:176][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.22-03.37.18:176][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.22-03.37.18:241][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.04.22-03.37.18:241][  0]LogAudioMixer: Display: Name: Speakers (ASUS Xonar DGX Audio Device)
+[2021.04.22-03.37.18:241][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.04.22-03.37.18:241][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.04.22-03.37.18:241][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.04.22-03.37.18:241][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.04.22-03.37.18:241][  0]LogAudioMixer: Display: Channel Order:
+[2021.04.22-03.37.18:241][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.22-03.37.18:241][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.22-03.37.18:259][  0]LogAudioMixer: Display: Using Audio Device Speakers (ASUS Xonar DGX Audio Device)
+[2021.04.22-03.37.18:270][  0]LogInit: FAudioDevice initialized.
+[2021.04.22-03.37.18:273][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.22-03.37.18:391][  0]LogDerivedDataCache: Saved boot cache 0.12s 81MB C:/Users/cythr/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.04.22-03.37.18:392][  0]LogInit: Texture streaming: Enabled
+[2021.04.22-03.37.18:423][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.22-03.37.18:423][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.22-03.37.18:426][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.22-03.37.18:506][  0]LogInit: Transaction tracking system initialized
+[2021.04.22-03.37.18:572][  0]BlueprintLog: New page: Editor Load
+[2021.04.22-03.37.18:764][  0]LocalizationService: Localization service is disabled
+[2021.04.22-03.37.18:966][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.22-03.37.18:967][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.04.22-03.37.19:330][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/' took 0.02s
+[2021.04.22-03.37.19:330][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.22-03.37.19:330][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.22-03.37.20:456][  0]SourceControl: Source control is disabled
+[2021.04.22-03.37.20:461][  0]LightingResults: New page: Lighting Build
+[2021.04.22-03.37.20:474][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.22-03.37.20:476][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-03.37.20:479][  0]MapCheck: New page: Map Check
+[2021.04.22-03.37.20:479][  0]LightingResults: New page: Lighting Build
+[2021.04.22-03.37.20:531][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.04.22-03.37.21:278][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.22-03.37.21:375][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.22-03.37.21:428][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.04.22-03.37.21:430][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.22-03.37.21:431][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.992ms to complete.
+[2021.04.22-03.37.21:432][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.974
+[2021.04.22-03.37.21:716][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.22-03.37.21:726][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.22-03.37.21:735][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.22-03.37.21:743][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.22-03.37.21:770][  0]LogCollectionManager: Loaded 0 collections in 0.002134 seconds
+[2021.04.22-03.37.21:827][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Saved/Collections/' took 0.00s
+[2021.04.22-03.37.21:827][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/Developers/cythr/Collections/' took 0.00s
+[2021.04.22-03.37.21:827][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/Collections/' took 0.00s
+[2021.04.22-03.37.21:827][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 3015 classes and 717 folders.
+[2021.04.22-03.37.21:844][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.22-03.37.22:308][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.22-03.37.22:328][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2021.04.22-03.37.22:503][  0]LogSlate: Took 0.002080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.22-03.37.22:516][  0]LogSlate: Took 0.002217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.22-03.37.22:525][  0]LogSlate: Took 0.001499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.22-03.37.22:667][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.04.22-03.37.22:943][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.04.22-03.37.22:943][  0]LogLoad: (Engine Initialization) Total time: 25.09 seconds
+[2021.04.22-03.37.22:943][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.22-03.37.23:126][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.22-03.37.24:090][  7]LogSlate: Took 0.010161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.22-03.37.24:206][  8]LogAssetRegistry: Asset discovery search completed in 13.2232 seconds
+[2021.04.22-03.37.24:211][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2021.04.22-03.37.26:503][ 14]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.22-03.37.33:590][ 36]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/' took 10.62s
+[2021.04.22-03.38.12:329][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.04.22-03.38.12:342][257]Cmd: MAP LOAD FILE="../../../../../../Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.22-03.38.12:379][257]LightingResults: New page: Lighting Build
+[2021.04.22-03.38.12:380][257]LoadErrors: New page: Loading map: MainLevel.umap
+[2021.04.22-03.38.12:385][257]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.22-03.38.12:386][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.22-03.38.12:387][257]MapCheck: New page: Map Check
+[2021.04.22-03.38.12:387][257]LightingResults: New page: Lighting Build
+[2021.04.22-03.38.12:421][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.04.22-03.38.12:642][257]LogStaticMesh: Building static mesh PhotoBooth2...
+[2021.04.22-03.38.12:666][257]LogStaticMesh: Built static mesh [0.02s] /Game/WhiteBoxAssets/PhotoBooth2.PhotoBooth2
+[2021.04.22-03.38.12:676][257]LogStaticMesh: Building static mesh TicketBooth...
+[2021.04.22-03.38.12:683][257]LogStaticMesh: Built static mesh [0.01s] /Game/WhiteBoxAssets/TicketBooth.TicketBooth
+[2021.04.22-03.38.12:821][257]LogAIModule: Creating AISystem for world MainLevel
+[2021.04.22-03.38.12:872][257]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.22-03.38.12:932][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.04.22-03.38.12:989][257]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.22-03.38.12:989][257]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.192ms to complete.
+[2021.04.22-03.38.12:989][257]LogFileHelpers: Loading map 'MainLevel' took 0.658
+[2021.04.22-03.38.12:991][257]LogSlate: Window 'Open Level' being destroyed
+[2021.04.22-03.39.36:079][749]AssetReimport: New page: Outstanding source content changes 05:39:36
+[2021.04.22-03.39.36:475][750]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_ambientocclusion.png]
+[2021.04.22-03.39.36:480][750]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_ambientocclusion.png)
+[2021.04.22-03.39.36:830][750]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.37:646][751]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_basecolor.png]
+[2021.04.22-03.39.37:666][751]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_basecolor.png)
+[2021.04.22-03.39.38:371][751]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.39:002][752]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_height.png]
+[2021.04.22-03.39.39:034][752]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_height.png)
+[2021.04.22-03.39.39:514][752]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.39:767][753]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_metallic.png]
+[2021.04.22-03.39.39:768][753]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_metallic.png)
+[2021.04.22-03.39.39:995][753]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.40:505][754]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_mrao.png]
+[2021.04.22-03.39.40:524][754]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_mrao.png)
+[2021.04.22-03.39.40:985][754]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.41:539][755]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_normal.png]
+[2021.04.22-03.39.41:577][755]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Asphalt_CrackedRoad/CrackedAsphaltRoad_normal.png)
+[2021.04.22-03.39.42:129][755]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.43:994][756]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_ambientocclusion.png]
+[2021.04.22-03.39.44:011][756]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_ambientocclusion.png)
+[2021.04.22-03.39.45:575][756]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.47:642][757]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_basecolor.png]
+[2021.04.22-03.39.47:674][757]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_basecolor.png)
+[2021.04.22-03.39.49:427][757]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.50:384][758]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_height.png]
+[2021.04.22-03.39.50:420][758]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_height.png)
+[2021.04.22-03.39.51:142][758]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.51:379][759]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_metallic.png]
+[2021.04.22-03.39.51:380][759]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_metallic.png)
+[2021.04.22-03.39.51:591][759]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.54:210][760]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_mrao.png]
+[2021.04.22-03.39.54:243][760]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_mrao.png)
+[2021.04.22-03.39.56:460][760]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.57:049][761]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_normal.png]
+[2021.04.22-03.39.57:155][761]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_BrokenLimestonePath/BrokenLimestoneBrickPath_normal.png)
+[2021.04.22-03.39.57:651][761]LogEditorFactories: -- imported successfully
+[2021.04.22-03.39.58:118][762]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_ambientocclusion.png]
+[2021.04.22-03.39.58:126][762]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_ambientocclusion.png)
+[2021.04.22-03.39.58:541][762]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.00:998][763]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_basecolor.png]
+[2021.04.22-03.40.01:038][763]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_basecolor.png)
+[2021.04.22-03.40.03:198][763]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.03:667][764]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_height.png]
+[2021.04.22-03.40.03:677][764]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_height.png)
+[2021.04.22-03.40.04:083][764]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.04:290][765]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_metallic.png]
+[2021.04.22-03.40.04:291][765]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_metallic.png)
+[2021.04.22-03.40.04:500][765]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.06:851][766]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_mrao.png]
+[2021.04.22-03.40.06:882][766]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_mrao.png)
+[2021.04.22-03.40.09:102][766]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.09:633][767]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_normal.png]
+[2021.04.22-03.40.09:671][767]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Brick_SidewalkwithCurb/CitySidewalkBricksCurb_normal.png)
+[2021.04.22-03.40.10:059][767]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.10:372][768]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_ambientocclusion.png]
+[2021.04.22-03.40.10:373][768]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_ambientocclusion.png)
+[2021.04.22-03.40.10:677][768]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.11:240][769]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_basecolor.png]
+[2021.04.22-03.40.11:258][769]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_basecolor.png)
+[2021.04.22-03.40.11:763][769]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.12:003][770]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_height.png]
+[2021.04.22-03.40.12:154][770]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_height.png)
+[2021.04.22-03.40.12:434][770]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.12:678][771]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_metallic.png]
+[2021.04.22-03.40.12:679][771]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_metallic.png)
+[2021.04.22-03.40.12:867][771]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.13:288][772]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_mrao.png]
+[2021.04.22-03.40.13:298][772]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_mrao.png)
+[2021.04.22-03.40.13:701][772]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.14:087][773]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_normal.png]
+[2021.04.22-03.40.14:157][773]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Camo_DesertDigital/DesertDigitalCamouflage_normal.png)
+[2021.04.22-03.40.14:510][773]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.16:271][774]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_ambientocclusion.png]
+[2021.04.22-03.40.16:290][774]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_ambientocclusion.png)
+[2021.04.22-03.40.17:841][774]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.19:145][775]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_basecolor.png]
+[2021.04.22-03.40.19:168][775]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_basecolor.png)
+[2021.04.22-03.40.20:198][775]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.20:787][776]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_height.png]
+[2021.04.22-03.40.20:804][776]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_height.png)
+[2021.04.22-03.40.21:295][776]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.21:506][777]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_metallic.png]
+[2021.04.22-03.40.21:507][777]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_metallic.png)
+[2021.04.22-03.40.21:705][777]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.23:873][778]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_mrao.png]
+[2021.04.22-03.40.23:906][778]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_mrao.png)
+[2021.04.22-03.40.25:726][778]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.26:206][779]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_normal.png]
+[2021.04.22-03.40.26:241][779]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Clay_Red/Clay01_normal.png)
+[2021.04.22-03.40.26:654][779]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.27:050][780]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_ambientocclusion.png]
+[2021.04.22-03.40.27:055][780]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_ambientocclusion.png)
+[2021.04.22-03.40.27:441][780]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.29:174][781]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_basecolor.png]
+[2021.04.22-03.40.29:199][781]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_basecolor.png)
+[2021.04.22-03.40.30:649][781]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.31:120][782]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_height.png]
+[2021.04.22-03.40.31:155][782]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_height.png)
+[2021.04.22-03.40.31:515][782]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.31:793][783]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_metallic.png]
+[2021.04.22-03.40.31:793][783]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_metallic.png)
+[2021.04.22-03.40.31:991][783]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.32:431][784]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_mrao.png]
+[2021.04.22-03.40.32:443][784]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_mrao.png)
+[2021.04.22-03.40.32:852][784]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.33:256][785]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_normal.png]
+[2021.04.22-03.40.33:275][785]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Concrete_StructuralDivots/ConcreteStructuralDivots_normal.png)
+[2021.04.22-03.40.33:628][785]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.35:217][786]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_ambientocclusion.png]
+[2021.04.22-03.40.35:236][786]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_ambientocclusion.png)
+[2021.04.22-03.40.36:637][786]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.39:394][787]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_basecolor.png]
+[2021.04.22-03.40.39:445][787]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_basecolor.png)
+[2021.04.22-03.40.41:817][787]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.42:586][788]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_height.png]
+[2021.04.22-03.40.42:619][788]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_height.png)
+[2021.04.22-03.40.43:155][788]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.43:361][789]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_metallic.png]
+[2021.04.22-03.40.43:362][789]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_metallic.png)
+[2021.04.22-03.40.43:557][789]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.46:204][790]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_mrao.png]
+[2021.04.22-03.40.46:242][790]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_mrao.png)
+[2021.04.22-03.40.48:538][790]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.51:631][791]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_normal.png]
+[2021.04.22-03.40.51:690][791]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Dirt_BarkCovered/BarkCoveredGround_normal.png)
+[2021.04.22-03.40.54:383][791]LogEditorFactories: -- imported successfully
+[2021.04.22-03.40.56:456][792]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_ambientocclusion.png]
+[2021.04.22-03.40.56:477][792]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_ambientocclusion.png)
+[2021.04.22-03.40.58:255][792]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.01:080][793]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_basecolor.png]
+[2021.04.22-03.41.01:132][793]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_basecolor.png)
+[2021.04.22-03.41.03:524][793]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.04:329][794]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_height.png]
+[2021.04.22-03.41.04:361][794]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_height.png)
+[2021.04.22-03.41.04:966][794]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.05:175][795]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_metallic.png]
+[2021.04.22-03.41.05:178][795]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_metallic.png)
+[2021.04.22-03.41.05:369][795]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.08:045][796]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_mrao.png]
+[2021.04.22-03.41.08:079][796]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_mrao.png)
+[2021.04.22-03.41.10:392][796]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.10:959][797]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_normal.png]
+[2021.04.22-03.41.10:994][797]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WhiteWool/WhiteWoolCloth_normal.png)
+[2021.04.22-03.41.11:442][797]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.13:604][798]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_ambientocclusion.png]
+[2021.04.22-03.41.13:625][798]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_ambientocclusion.png)
+[2021.04.22-03.41.15:444][798]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.18:058][799]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_basecolor.png]
+[2021.04.22-03.41.18:114][799]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_basecolor.png)
+[2021.04.22-03.41.20:423][799]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.22:470][800]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_height.png]
+[2021.04.22-03.41.22:514][800]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_height.png)
+[2021.04.22-03.41.24:184][800]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.24:463][801]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_metallic.png]
+[2021.04.22-03.41.24:464][801]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_metallic.png)
+[2021.04.22-03.41.24:686][801]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.27:418][802]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_mrao.png]
+[2021.04.22-03.41.27:456][802]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_mrao.png)
+[2021.04.22-03.41.29:760][802]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.30:327][803]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_normal.png]
+[2021.04.22-03.41.30:382][803]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Fabric_WovenBurgandyWool/WoolWovenCarpetStripedBurgundy_normal.png)
+[2021.04.22-03.41.30:869][803]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.32:174][804]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_ambientocclusion.png]
+[2021.04.22-03.41.32:190][804]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_ambientocclusion.png)
+[2021.04.22-03.41.33:280][804]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.34:364][805]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_basecolor.png]
+[2021.04.22-03.41.34:385][805]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_basecolor.png)
+[2021.04.22-03.41.35:385][805]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.36:076][806]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_emissive.png]
+[2021.04.22-03.41.36:088][806]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_emissive.png)
+[2021.04.22-03.41.36:732][806]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.37:392][807]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_height.png]
+[2021.04.22-03.41.37:422][807]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_height.png)
+[2021.04.22-03.41.37:948][807]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.38:157][808]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_metallic.png]
+[2021.04.22-03.41.38:158][808]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_metallic.png)
+[2021.04.22-03.41.38:350][808]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.40:855][809]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_mrao.png]
+[2021.04.22-03.41.40:888][809]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_mrao.png)
+[2021.04.22-03.41.43:031][809]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.43:401][810]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_normal.png]
+[2021.04.22-03.41.43:423][810]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_normal.png)
+[2021.04.22-03.41.43:775][810]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.44:040][811]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_opacity.png]
+[2021.04.22-03.41.44:041][811]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Glass_BeveledLeadedDiamondOld/BeveledLeadedGlassDiamondOld_opacity.png)
+[2021.04.22-03.41.44:305][811]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.46:019][812]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_ambientocclusion.png]
+[2021.04.22-03.41.46:041][812]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_ambientocclusion.png)
+[2021.04.22-03.41.47:510][812]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.49:346][813]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_basecolor.png]
+[2021.04.22-03.41.49:381][813]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_basecolor.png)
+[2021.04.22-03.41.51:067][813]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.51:762][814]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_height.png]
+[2021.04.22-03.41.51:779][814]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_height.png)
+[2021.04.22-03.41.52:313][814]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.52:538][815]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_metallic.png]
+[2021.04.22-03.41.52:545][815]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_metallic.png)
+[2021.04.22-03.41.52:744][815]LogEditorFactories: -- imported successfully
+[2021.04.22-03.41.55:360][816]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_mrao.png]
+[2021.04.22-03.41.57:454][816]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_mrao.png)
+[2021.04.22-03.41.59:743][816]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.00:271][817]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_normal.png]
+[2021.04.22-03.42.00:311][817]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Leather_WrinkledOstrichHide/BlackOstrichHideWrinkles2_normal.png)
+[2021.04.22-03.42.00:782][817]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.01:079][818]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_ambientocclusion.png]
+[2021.04.22-03.42.01:097][818]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_ambientocclusion.png)
+[2021.04.22-03.42.01:485][818]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.04:297][819]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_basecolor.png]
+[2021.04.22-03.42.04:361][819]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_basecolor.png)
+[2021.04.22-03.42.06:795][819]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.07:120][820]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_height.png]
+[2021.04.22-03.42.07:121][820]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_height.png)
+[2021.04.22-03.42.07:381][820]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.08:412][821]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_metallic.png]
+[2021.04.22-03.42.08:456][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_metallic.png)
+[2021.04.22-03.42.09:343][821]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.11:752][822]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_mrao.png]
+[2021.04.22-03.42.11:796][822]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_mrao.png)
+[2021.04.22-03.42.13:995][822]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.14:501][823]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_normal.png]
+[2021.04.22-03.42.14:535][823]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_AbandonedIndustrialSteel/IndustrialSteelAbandoned_normal.png)
+[2021.04.22-03.42.14:968][823]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.16:736][824]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_ambientocclusion.png]
+[2021.04.22-03.42.16:749][824]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_ambientocclusion.png)
+[2021.04.22-03.42.18:297][824]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.20:782][825]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_basecolor.png]
+[2021.04.22-03.42.20:815][825]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_basecolor.png)
+[2021.04.22-03.42.22:282][825]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.23:875][826]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_height.png]
+[2021.04.22-03.42.24:292][826]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_height.png)
+[2021.04.22-03.42.25:432][826]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.26:490][827]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_metallic.png]
+[2021.04.22-03.42.26:494][827]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_metallic.png)
+[2021.04.22-03.42.26:775][827]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.29:408][828]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_mrao.png]
+[2021.04.22-03.42.29:441][828]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_mrao.png)
+[2021.04.22-03.42.31:702][828]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.32:055][829]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_normal.png]
+[2021.04.22-03.42.32:085][829]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Metal_DirtyHammeredCopper/DirtyHammeredCopper_normal.png)
+[2021.04.22-03.42.32:380][829]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.33:595][830]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_ambientocclusion.png]
+[2021.04.22-03.42.33:611][830]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_ambientocclusion.png)
+[2021.04.22-03.42.34:650][830]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.37:140][831]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_basecolor.png]
+[2021.04.22-03.42.37:203][831]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_basecolor.png)
+[2021.04.22-03.42.39:337][831]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.40:215][832]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_height.png]
+[2021.04.22-03.42.40:239][832]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_height.png)
+[2021.04.22-03.42.41:100][832]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.41:336][833]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_metallic.png]
+[2021.04.22-03.42.41:349][833]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_metallic.png)
+[2021.04.22-03.42.41:577][833]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.43:711][834]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_mrao.png]
+[2021.04.22-03.42.43:739][834]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_mrao.png)
+[2021.04.22-03.42.45:617][834]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.46:141][835]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_normal.png]
+[2021.04.22-03.42.46:336][835]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_ChunkyWetGravelandDirt/ChunkyWetGravelAndDirt_normal.png)
+[2021.04.22-03.42.46:742][835]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.48:090][836]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_ambientocclusion.png]
+[2021.04.22-03.42.48:111][836]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_ambientocclusion.png)
+[2021.04.22-03.42.49:333][836]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.51:940][837]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_basecolor.png]
+[2021.04.22-03.42.52:233][837]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_basecolor.png)
+[2021.04.22-03.42.54:509][837]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.55:411][838]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_height.png]
+[2021.04.22-03.42.55:441][838]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_height.png)
+[2021.04.22-03.42.56:109][838]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.56:319][839]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_metallic.png]
+[2021.04.22-03.42.56:321][839]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_metallic.png)
+[2021.04.22-03.42.56:518][839]LogEditorFactories: -- imported successfully
+[2021.04.22-03.42.58:734][840]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_mrao.png]
+[2021.04.22-03.42.58:766][840]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_mrao.png)
+[2021.04.22-03.43.00:704][840]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.01:252][841]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_normal.png]
+[2021.04.22-03.43.01:295][841]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Mud_WetGnarlyRoot/GnarlyRootWet_normal.png)
+[2021.04.22-03.43.01:844][841]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.03:894][842]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_ambientocclusion.png]
+[2021.04.22-03.43.03:928][842]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_ambientocclusion.png)
+[2021.04.22-03.43.05:819][842]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.06:824][843]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_basecolor.png]
+[2021.04.22-03.43.06:864][843]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_basecolor.png)
+[2021.04.22-03.43.07:637][843]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.16:487][844]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_height.png]
+[2021.04.22-03.43.16:954][844]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_height.png)
+[2021.04.22-03.43.17:515][844]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.18:028][845]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_metallic.png]
+[2021.04.22-03.43.18:033][845]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_metallic.png)
+[2021.04.22-03.43.18:483][845]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.21:235][846]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_mrao.png]
+[2021.04.22-03.43.21:281][846]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_mrao.png)
+[2021.04.22-03.43.23:731][846]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.29:217][847]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_normal.png]
+[2021.04.22-03.43.29:267][847]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Plaster_SubwayCeiling/SubwayPlasterCeiling_normal.png)
+[2021.04.22-03.43.29:713][847]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.30:301][848]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_ambientocclusion.png]
+[2021.04.22-03.43.30:310][848]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_ambientocclusion.png)
+[2021.04.22-03.43.30:822][848]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.33:526][849]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_basecolor.png]
+[2021.04.22-03.43.33:566][849]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_basecolor.png)
+[2021.04.22-03.43.35:853][849]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.36:957][850]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_height.png]
+[2021.04.22-03.43.36:979][850]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_height.png)
+[2021.04.22-03.43.37:948][850]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.39:198][851]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_metallic.png]
+[2021.04.22-03.43.39:208][851]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_metallic.png)
+[2021.04.22-03.43.40:247][851]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.40:718][852]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_mrao.png]
+[2021.04.22-03.43.40:748][852]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_mrao.png)
+[2021.04.22-03.43.41:136][852]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.41:572][853]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_normal.png]
+[2021.04.22-03.43.41:595][853]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_FlatRingChainmailArmor/FlatRingChainmailArmor_normal.png)
+[2021.04.22-03.43.41:966][853]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.43:587][854]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_ambientocclusion.png]
+[2021.04.22-03.43.43:613][854]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_ambientocclusion.png)
+[2021.04.22-03.43.45:023][854]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.47:717][855]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_basecolor.png]
+[2021.04.22-03.43.47:765][855]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_basecolor.png)
+[2021.04.22-03.43.50:135][855]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.50:977][856]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_height.png]
+[2021.04.22-03.43.51:009][856]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_height.png)
+[2021.04.22-03.43.51:606][856]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.53:686][857]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_metallic.png]
+[2021.04.22-03.43.53:709][857]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_metallic.png)
+[2021.04.22-03.43.55:459][857]LogEditorFactories: -- imported successfully
+[2021.04.22-03.43.58:373][858]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_mrao.png]
+[2021.04.22-03.43.58:442][858]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_mrao.png)
+[2021.04.22-03.44.01:017][858]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.01:613][859]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_normal.png]
+[2021.04.22-03.44.01:653][859]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_MedievalGoldCoins/MedievalGoldCoins_normal.png)
+[2021.04.22-03.44.02:130][859]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.02:877][860]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_ambientocclusion.png]
+[2021.04.22-03.44.02:910][860]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_ambientocclusion.png)
+[2021.04.22-03.44.03:544][860]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.05:870][861]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_basecolor.png]
+[2021.04.22-03.44.05:907][861]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_basecolor.png)
+[2021.04.22-03.44.08:079][861]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.09:059][862]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_height.png]
+[2021.04.22-03.44.09:073][862]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_height.png)
+[2021.04.22-03.44.09:959][862]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.10:235][863]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_metallic.png]
+[2021.04.22-03.44.10:243][863]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_metallic.png)
+[2021.04.22-03.44.10:440][863]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.12:020][864]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_mrao.png]
+[2021.04.22-03.44.12:044][864]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_mrao.png)
+[2021.04.22-03.44.13:439][864]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.14:106][865]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_normal.png]
+[2021.04.22-03.44.14:141][865]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PileofSkulls/PileOfSkulls_normal.png)
+[2021.04.22-03.44.14:560][865]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.15:310][866]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_ambientocclusion.png]
+[2021.04.22-03.44.15:321][866]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_ambientocclusion.png)
+[2021.04.22-03.44.15:964][866]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.18:124][867]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_basecolor.png]
+[2021.04.22-03.44.18:156][867]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_basecolor.png)
+[2021.04.22-03.44.20:091][867]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.20:581][868]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_height.png]
+[2021.04.22-03.44.20:598][868]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_height.png)
+[2021.04.22-03.44.21:008][868]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.21:310][869]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_metallic.png]
+[2021.04.22-03.44.21:316][869]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_metallic.png)
+[2021.04.22-03.44.21:597][869]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.23:513][870]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_mrao.png]
+[2021.04.22-03.44.23:546][870]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_mrao.png)
+[2021.04.22-03.44.25:196][870]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.25:630][871]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_normal.png]
+[2021.04.22-03.44.25:655][871]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Prop_PolishedMedievalBoltedWoodenDoor/PolishedMedievalBoltedWoodenDoor_normal.png)
+[2021.04.22-03.44.26:062][871]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.26:353][872]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_ambientocclusion.png]
+[2021.04.22-03.44.26:355][872]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_ambientocclusion.png)
+[2021.04.22-03.44.26:635][872]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.28:239][873]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_basecolor.png]
+[2021.04.22-03.44.28:269][873]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_basecolor.png)
+[2021.04.22-03.44.29:650][873]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.29:965][874]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_ddna.png]
+[2021.04.22-03.44.29:975][874]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_ddna.png)
+[2021.04.22-03.44.30:271][874]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.30:515][875]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_height.png]
+[2021.04.22-03.44.30:516][875]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_height.png)
+[2021.04.22-03.44.30:786][875]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.31:172][876]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_mrao.png]
+[2021.04.22-03.44.31:187][876]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_mrao.png)
+[2021.04.22-03.44.31:551][876]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.31:890][877]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_normal.png]
+[2021.04.22-03.44.31:900][877]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_BlackGranite/BlackGranite_normal.png)
+[2021.04.22-03.44.32:239][877]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.33:586][878]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_ambientocclusion.png]
+[2021.04.22-03.44.33:602][878]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_ambientocclusion.png)
+[2021.04.22-03.44.34:664][878]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.37:270][879]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_basecolor.png]
+[2021.04.22-03.44.37:304][879]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_basecolor.png)
+[2021.04.22-03.44.39:546][879]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.40:228][880]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_height.png]
+[2021.04.22-03.44.40:241][880]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_height.png)
+[2021.04.22-03.44.40:798][880]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.41:014][881]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_metallic.png]
+[2021.04.22-03.44.41:016][881]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_metallic.png)
+[2021.04.22-03.44.41:212][881]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.43:822][882]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_mrao.png]
+[2021.04.22-03.44.43:858][882]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_mrao.png)
+[2021.04.22-03.44.46:123][882]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.46:744][883]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_normal.png]
+[2021.04.22-03.44.46:792][883]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_DesertStrata03/DesertStrata03_normal.png)
+[2021.04.22-03.44.47:265][883]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.48:969][884]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_ambientocclusion.png]
+[2021.04.22-03.44.48:992][884]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_ambientocclusion.png)
+[2021.04.22-03.44.50:470][884]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.53:365][885]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_basecolor.png]
+[2021.04.22-03.44.53:417][885]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_basecolor.png)
+[2021.04.22-03.44.55:982][885]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.56:750][886]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_height.png]
+[2021.04.22-03.44.56:782][886]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_height.png)
+[2021.04.22-03.44.57:337][886]LogEditorFactories: -- imported successfully
+[2021.04.22-03.44.57:556][887]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_metallic.png]
+[2021.04.22-03.44.57:558][887]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_metallic.png)
+[2021.04.22-03.44.57:751][887]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.00:371][888]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_mrao.png]
+[2021.04.22-03.45.00:414][888]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_mrao.png)
+[2021.04.22-03.45.02:679][888]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.03:247][889]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_normal.png]
+[2021.04.22-03.45.03:298][889]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Rock_FracturedCliff5/FracturedCliff5_normal.png)
+[2021.04.22-03.45.03:765][889]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.04:401][890]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_ambientocclusion.png]
+[2021.04.22-03.45.04:416][890]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_ambientocclusion.png)
+[2021.04.22-03.45.04:969][890]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.07:409][891]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_basecolor.png]
+[2021.04.22-03.45.07:441][891]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_basecolor.png)
+[2021.04.22-03.45.09:549][891]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.10:272][892]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_height.png]
+[2021.04.22-03.45.10:292][892]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_height.png)
+[2021.04.22-03.45.10:884][892]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.11:090][893]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_metallic.png]
+[2021.04.22-03.45.11:090][893]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_metallic.png)
+[2021.04.22-03.45.11:283][893]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.13:345][894]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_mrao.png]
+[2021.04.22-03.45.13:376][894]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_mrao.png)
+[2021.04.22-03.45.15:176][894]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.15:680][895]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_normal.png]
+[2021.04.22-03.45.15:717][895]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CeramicRed/CrackedRedCeramicRoof_normal.png)
+[2021.04.22-03.45.16:139][895]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.16:561][896]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_ambientocclusion.png]
+[2021.04.22-03.45.16:568][896]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_ambientocclusion.png)
+[2021.04.22-03.45.16:949][896]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.19:840][897]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_basecolor.png]
+[2021.04.22-03.45.19:908][897]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_basecolor.png)
+[2021.04.22-03.45.22:439][897]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.23:355][898]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_height.png]
+[2021.04.22-03.45.23:373][898]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_height.png)
+[2021.04.22-03.45.24:183][898]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.26:433][899]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_metallic.png]
+[2021.04.22-03.45.26:462][899]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_metallic.png)
+[2021.04.22-03.45.28:327][899]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.31:036][900]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_mrao.png]
+[2021.04.22-03.45.31:092][900]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_mrao.png)
+[2021.04.22-03.45.33:527][900]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.33:932][901]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_normal.png]
+[2021.04.22-03.45.33:954][901]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_CurrogatedIron/CorrugatedIronRoof_normal.png)
+[2021.04.22-03.45.34:333][901]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.36:121][902]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_ambientocclusion.png]
+[2021.04.22-03.45.36:142][902]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_ambientocclusion.png)
+[2021.04.22-03.45.37:587][902]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.40:316][903]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_basecolor.png]
+[2021.04.22-03.45.40:377][903]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_basecolor.png)
+[2021.04.22-03.45.42:780][903]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.43:711][904]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_height.png]
+[2021.04.22-03.45.43:746][904]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_height.png)
+[2021.04.22-03.45.44:574][904]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.44:825][905]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_metallic.png]
+[2021.04.22-03.45.44:828][905]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_metallic.png)
+[2021.04.22-03.45.45:146][905]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.48:183][906]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_mrao.png]
+[2021.04.22-03.45.48:358][906]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_mrao.png)
+[2021.04.22-03.45.50:672][906]LogEditorFactories: -- imported successfully
+[2021.04.22-03.45.55:559][907]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_normal.png]
+[2021.04.22-03.46.04:238][907]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Roof_OvergrownRoundCeramicShingle/RoundCeramicShingleOvergrown_normal.png)
+[2021.04.22-03.46.04:664][907]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.05:190][908]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_ambientocclusion.png]
+[2021.04.22-03.46.05:201][908]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_ambientocclusion.png)
+[2021.04.22-03.46.05:684][908]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.07:788][909]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_basecolor.png]
+[2021.04.22-03.46.07:839][909]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_basecolor.png)
+[2021.04.22-03.46.09:568][909]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.10:412][910]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_height.png]
+[2021.04.22-03.46.10:490][910]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_height.png)
+[2021.04.22-03.46.10:898][910]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.11:246][911]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_metallic.png]
+[2021.04.22-03.46.11:281][911]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_metallic.png)
+[2021.04.22-03.46.11:486][911]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.13:104][912]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_mrao.png]
+[2021.04.22-03.46.13:137][912]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_mrao.png)
+[2021.04.22-03.46.14:529][912]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.14:888][913]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_normal.png]
+[2021.04.22-03.46.14:910][913]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_BluePaintedSkulls/PaintedSkullTilesBlue_normal.png)
+[2021.04.22-03.46.15:338][913]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.15:867][914]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_ambientocclusion.png]
+[2021.04.22-03.46.15:911][914]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_ambientocclusion.png)
+[2021.04.22-03.46.16:360][914]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.18:352][915]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_basecolor.png]
+[2021.04.22-03.46.18:404][915]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_basecolor.png)
+[2021.04.22-03.46.20:230][915]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.20:627][916]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_height.png]
+[2021.04.22-03.46.20:783][916]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_height.png)
+[2021.04.22-03.46.21:179][916]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.21:397][917]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_metallic.png]
+[2021.04.22-03.46.21:524][917]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_metallic.png)
+[2021.04.22-03.46.21:731][917]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.23:882][918]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_mrao.png]
+[2021.04.22-03.46.23:912][918]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_mrao.png)
+[2021.04.22-03.46.25:818][918]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.26:184][919]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_normal.png]
+[2021.04.22-03.46.26:251][919]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Tile_DirtySubwayFloor/SubwayFloorTilesDirty_normal.png)
+[2021.04.22-03.46.26:633][919]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.27:714][920]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_ambientocclusion.png]
+[2021.04.22-03.46.29:178][920]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_ambientocclusion.png)
+[2021.04.22-03.46.30:601][920]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.33:170][921]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_basecolor.png]
+[2021.04.22-03.46.34:500][921]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_basecolor.png)
+[2021.04.22-03.46.36:215][921]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.36:968][922]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_height.png]
+[2021.04.22-03.46.37:022][922]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_height.png)
+[2021.04.22-03.46.37:636][922]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.38:480][923]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_metallic.png]
+[2021.04.22-03.46.38:590][923]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_metallic.png)
+[2021.04.22-03.46.39:313][923]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.41:954][924]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_mrao.png]
+[2021.04.22-03.46.42:142][924]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_mrao.png)
+[2021.04.22-03.46.44:367][924]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.44:817][925]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_normal.png]
+[2021.04.22-03.46.44:842][925]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Biomech/BiomechTrimKit_normal.png)
+[2021.04.22-03.46.45:242][925]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.47:339][926]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_ambientocclusion.png]
+[2021.04.22-03.46.47:362][926]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_ambientocclusion.png)
+[2021.04.22-03.46.49:148][926]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.52:269][927]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_basecolor.png]
+[2021.04.22-03.46.52:329][927]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_basecolor.png)
+[2021.04.22-03.46.54:921][927]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.56:174][928]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_height.png]
+[2021.04.22-03.46.56:212][928]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_height.png)
+[2021.04.22-03.46.57:171][928]LogEditorFactories: -- imported successfully
+[2021.04.22-03.46.57:378][929]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_metallic.png]
+[2021.04.22-03.46.57:380][929]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_metallic.png)
+[2021.04.22-03.46.57:586][929]LogEditorFactories: -- imported successfully
+[2021.04.22-03.47.00:170][930]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_mrao.png]
+[2021.04.22-03.47.00:207][930]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_mrao.png)
+[2021.04.22-03.47.02:505][930]LogEditorFactories: -- imported successfully
+[2021.04.22-03.47.03:079][931]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_normal.png]
+[2021.04.22-03.47.03:139][931]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_Sumerian/SumerianTrim_normal.png)
+[2021.04.22-03.47.03:642][931]LogEditorFactories: -- imported successfully
+[2021.04.22-03.47.04:158][932]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_ambientocclusion.png]
+[2021.04.22-03.47.04:167][932]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_ambientocclusion.png)
+[2021.04.22-03.47.04:626][932]LogEditorFactories: -- imported successfully
+[2021.04.22-03.47.05:366][933]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_basecolor.png]
+[2021.04.22-03.47.05:384][933]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_basecolor.png)
+[2021.04.22-03.47.06:047][933]LogEditorFactories: -- imported successfully
+[2021.04.22-03.47.06:618][934]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_height.png]
+[2021.04.22-03.47.06:624][934]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_height.png)
+[2021.04.22-03.47.06:956][934]LogEditorFactories: -- imported successfully
+[2021.04.22-03.47.07:153][935]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_metallic.png]
+[2021.04.22-03.47.07:154][935]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_metallic.png)
+[2021.04.22-03.47.07:349][935]LogEditorFactories: -- imported successfully
+[2021.04.22-03.47.08:473][936]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_mrao.png]
+[2021.04.22-03.47.08:493][936]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_mrao.png)
+[2021.04.22-03.47.09:486][936]LogEditorFactories: -- imported successfully
+[2021.04.22-03.47.09:810][937]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_normal.png]
+[2021.04.22-03.47.09:816][937]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Trimsheet_ZigZagGroovedTires/ZigZagGroovesTiresTrimsheet_normal.png)
+[2021.04.22-03.47.10:120][937]LogEditorFactories: -- imported successfully
+[2021.04.22-03.47.10:730][938]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Wood_OldPlanksWithBolts/OldWoodPlankFloorWithBolts_ambientocclusion.png]
+[2021.04.22-03.47.10:743][938]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Wood_OldPlanksWithBolts/OldWoodPlankFloorWithBolts_ambientocclusion.png)
+[2021.04.22-03.47.11:295][938]LogEditorFactories: -- imported successfully
+[2021.04.22-03.47.55:831][939]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Wood_OldPlanksWithBolts/OldWoodPlankFloorWithBolts_basecolor.png]
+[2021.04.22-03.47.56:489][939]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Wood_OldPlanksWithBolts/OldWoodPlankFloorWithBolts_basecolor.png)
+[2021.04.22-03.48.22:292][939]LogEditorFactories: -- imported successfully
+[2021.04.22-03.48.23:262][939]LogTemp: Resetting audio stream to device id 
+[2021.04.22-03.48.23:422][939]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.04.22-03.48.23:422][939]LogAudioMixer: Display: Name: Speakers (ASUS Xonar DGX Audio Device)
+[2021.04.22-03.48.23:422][939]LogAudioMixer: Display: Is Default: Yes
+[2021.04.22-03.48.23:422][939]LogAudioMixer: Display: Sample Rate: 48000
+[2021.04.22-03.48.23:422][939]LogAudioMixer: Display: Channel Count Used: 2
+[2021.04.22-03.48.23:422][939]LogAudioMixer: Display: Device Channel Count: 2
+[2021.04.22-03.48.23:422][939]LogAudioMixer: Display: Channel Order:
+[2021.04.22-03.48.23:422][939]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.22-03.48.23:422][939]LogAudioMixer: Display: 1: FrontRight
+[2021.04.22-03.48.36:701][940]LogEditorFactories: Performing atomic reimport of [C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Wood_OldPlanksWithBolts/OldWoodPlankFloorWithBolts_height.png]
+[2021.04.22-03.48.37:739][940]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/cythr/Documents/GitHub/CT5016-Assignment2-MangoMochi/MMAssignment2/Content/GT_Free2020/Materials/Bitmaps/Wood_OldPlanksWithBolts/OldWoodPlankFloorWithBolts_height.png)
+[2021.04.22-03.48.40:835][940]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.04.22-03.49.15:099][940]LogExit: Executing StaticShutdownAfterError
+[2021.04.22-03.49.15:667][940]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.04.22-03.49.15:668][940]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.04.22-03.49.15:693][940]Log file closed, 04/22/21 04:49:15
